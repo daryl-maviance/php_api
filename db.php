@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "root";  // Change if necessary
+$username = "daryl";  // Change if necessary
 $password = "daryl";      // Change if necessary
 $dbname = "api_testing";
 
