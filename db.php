@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";  // Change if necessary
-$password = "";      // Change if necessary
+$password = "daryl";      // Change if necessary
 $dbname = "api_testing";
 
 // Create connection
